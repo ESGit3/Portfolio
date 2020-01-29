@@ -4,6 +4,7 @@
     <list default="true" id="fc4e53e7-4b42-44dc-a54e-113b1ba3a693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,29 +70,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580230143641</updated>
-      <workItem from="1580230145137" duration="2119000" />
+      <workItem from="1580230145137" duration="3255000" />
+      <workItem from="1580240652964" duration="750000" />
+      <workItem from="1580317625846" duration="447000" />
     </task>
+    <task id="LOCAL-00001" summary="Deploy 2">
+      <created>1580239451436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580239451436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deploy 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy 2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580236772102">
+    <state x="320" y="114" key="#Log_Highlighting_(ideolog)" timestamp="1580240671776">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580236772102" />
-    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1580236772101">
+    <state x="320" y="114" key="#Log_Highlighting_(ideolog)/0.0.1440.900@0.0.1440.900" timestamp="1580240671776" />
+    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1580239451115">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580236772101" />
-    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1580236772100">
+    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580239451115" />
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580240631912">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580236772100" />
-    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1580236772101">
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580240631912" />
+    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1580240631910">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580236772101" />
+    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580240631910" />
+    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1580240631910">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580240631910" />
+    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1580240631911">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580240631911" />
   </component>
 </project>
