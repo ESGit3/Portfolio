@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc4e53e7-4b42-44dc-a54e-113b1ba3a693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Splash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Splash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Splash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
@@ -88,6 +90,12 @@
       <workItem from="1580317625846" duration="2912000" />
       <workItem from="1580408657937" duration="1360000" />
       <workItem from="1580414452726" duration="437000" />
+      <workItem from="1580475349307" duration="1091000" />
+      <workItem from="1580495283732" duration="9000" />
+      <workItem from="1580760380526" duration="264000" />
+      <workItem from="1580922901731" duration="538000" />
+      <workItem from="1581101940101" duration="987000" />
+      <workItem from="1581355466838" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="Deploy 2">
       <created>1580239451436</created>
@@ -129,22 +137,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580239451115" />
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580436027026">
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580923720492">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580436027026" />
-    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1580436027022">
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580923720492" />
+    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1580923720491">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580436027022" />
-    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1580436027020">
+    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580923720491" />
+    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1580923720490">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580436027020" />
-    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1580436027024">
+    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580923720490" />
+    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1580923720491">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580436027024" />
+    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580923720491" />
     <state x="229" y="98" key="SettingsEditor" timestamp="1580324717677">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
