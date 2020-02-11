@@ -6,28 +6,6 @@ body, html {
   text-align: center;
 }
 
-nav {
-  position: fixed;
-  width: 100%;
-}
-
-nav h1 {
-  display: inline;
-  padding: 10px;
-  float: left;
-  margin: 0;
-}
-.navList {
-  display: inline;
-  padding: 10px;
-  float: right;
-  margin: 7px;
-}
-.navList li {
-  display: inline;
-  padding-right: 15px;
-}
-
 .splash {
   background-image: url("assets/Splash.jpg");
   background-position: center;
@@ -42,8 +20,10 @@ nav h1 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: white;
 }
 
-.about {
+.About {
+  padding: 10vh 0;
 
 }

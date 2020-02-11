@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc4e53e7-4b42-44dc-a54e-113b1ba3a693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/IMG_5555.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Splash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Splash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -95,7 +95,7 @@
       <workItem from="1580760380526" duration="264000" />
       <workItem from="1580922901731" duration="538000" />
       <workItem from="1581101940101" duration="987000" />
-      <workItem from="1581355466838" duration="234000" />
+      <workItem from="1581355466838" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="Deploy 2">
       <created>1580239451436</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580239451436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="about start">
+      <created>1581355920534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581355920534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,17 +133,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Deploy 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy 2" />
+    <MESSAGE value="about start" />
+    <option name="LAST_COMMIT_MESSAGE" value="about start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="114" key="#Log_Highlighting_(ideolog)" timestamp="1580240671776">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="114" key="#Log_Highlighting_(ideolog)/0.0.1440.900@0.0.1440.900" timestamp="1580240671776" />
-    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1580239451115">
+    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1581355919950">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580239451115" />
+    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581355919950" />
     <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580923720492">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -1,0 +1,23 @@
+nav {
+    position: fixed;
+    z-index: 3;
+    transition: background-color 200ms linear;
+    width: 100%;
+}
+
+nav h3 {
+    display: inline;
+    padding: 15px;
+    float: left;
+    margin: 0;
+}
+.navList {
+    display: inline;
+    padding: 10px;
+    float: right;
+    margin: 7px;
+}
+.navList li {
+    display: inline;
+    padding-right: 15px;
+}
